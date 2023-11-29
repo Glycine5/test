@@ -1,5 +1,5 @@
 import streamlit as st
-import plotly.express as px
+#import plotly.express as px
 st.title('なかモン先制率計算機')
 #st.title('aa')
 agil_1=st.number_input('すばやさA', 0, 2000, 0)
